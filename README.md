@@ -24,4 +24,4 @@ I'm an Android developer with a strong foundation in quality control and product
 
 ### Let's Connect!
 - LinkedIn: [Khaled Mustafa Eltazy](https://www.linkedin.com/in/khmeltazy/)
-- Email: [YourEmail@example.com](khmeltazy@gmail.com)
+- Email: (khmeltazy@gmail.com)
