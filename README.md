@@ -1,27 +1,68 @@
-## Hello, I'm Khaled Mustafa Eltazy
+## Hello, I'm **Khaled Mustafa Eltazy**
 
-I'm an Android developer with a strong foundation in quality control and production engineering. I’m passionate about creating functional and intuitive mobile applications, with a focus on native Android development in Kotlin. Over the past year, I've been transitioning into the world of Android development, and I'm excited to share my journey and projects here.
+I’m an **Android Developer** passionate about creating clean, scalable, and user-friendly mobile applications using **Kotlin** and modern Android technologies.  
+Over the past year, I’ve developed multiple applications from scratch — combining solid architecture with smooth UI and great user experience.  
+I’m now focused on building production-level Android apps with **Jetpack Compose**, **Compose Multiplatform**, and **Clean Architecture**.
 
-### About Me
-- Currently working as a Quality Control Section Head at El Kekhia, while actively pursuing Android development
-- Learning Java and Kotlin to build powerful and user-friendly Android applications
-- Developing my 3D modeling skills and have experience creating cartoon-styled objects
-- Based in Egypt, with a keen interest in exploring Android development opportunities in other countries
+---
 
-### Projects
-- *CurrencyConverter*: My first app, which allows users to convert between various currencies.
-- *Guess the Word*: A fun, interactive two-player game. One player acts out a word while the other guesses within a certain time.
-- *Sleep Tracker*: Tracks hours of sleep and allows users to rate their sleep quality.
-- *Countdown Timer*: A straightforward timer application.
-- *News App*: A news application that fetches data using Retrofit.
-- *Note App Khaled*: A feature-rich note-taking app with integrated features like Snackbar, Toast messages, AlertDialog, Shared Preferences, LiveData, and a navigation graph.
-- *Egypt Explorer*: A question-based game app designed to explore Egyptian culture and history through interactive quizzes.
+### Tech Stack & Skills
 
-### I’m currently improving:
-- Advanced Kotlin skills for Android development
-- Enhancing my knowledge of Android app architecture
-- Preparing for Android app interviews with both English and Arabic resources
+- **Languages:** Kotlin, Java  
+- **UI Framework:** Jetpack Compose, Compose Multiplatform (KMP), XML  
+- **Architectures:** MVVM, Clean Architecture  
+- **Dependency Injection:** Dagger-Hilt, Koin  
+- **Networking:** Retrofit, Ktor  
+- **Asynchronous Programming:** Kotlin Coroutines, Flow, StateFlow, SharedFlow  
+- **Data Storage:** Room Database, SharedPreferences, DataStore  
+- **Firebase Integration:** Firestore, Authentication, Cloud Messaging (Push Notifications)  
+- **Other Tools:** Navigation Component, Google Maps API, Notifications, Charting Libraries  
+- **Version Control:** Git & GitHub  
 
-### Let's Connect!
-- LinkedIn: [Khaled Mustafa Eltazy](https://www.linkedin.com/in/khmeltazy/)
-- Email: (khmeltazy@gmail.com)
+---
+
+### Featured Projects
+
+#### **Ashr Tlaf (Car Maintenance App)**
+> *In Progress – Google Play release coming soon*  
+A complete car maintenance tracking app with a modern UI built using **Jetpack Compose** and **MVVM**.  
+Features include multilingual support, theme switching, maintenance log records, notifications, and Firebase backend integration.
+
+#### **E-Commerce App**
+A shopping app developed using **MVVM**, **Dagger-Hilt**, **Firebase Firestore**, and **Cloudinary** for image hosting.  
+Implements **real-time product search**, **cart management**, and **order tracking**.
+
+#### **E-Commerce Admin App**
+An admin companion for the E-Commerce app with features to **manage orders, products, and push notifications** using **Firebase Cloud Messaging**.  
+Built with **Jetpack Compose**, **Flow**, and **Firebase integration** for real-time updates.
+
+#### **Running Tracker**
+Fitness tracking app using **Google Maps API**, **Room**, **MVVM**, **Line Charts**, and **Foreground Services** for tracking runs and visualizing performance.
+
+#### **Note App Khaled**
+A note-taking app using **RecyclerView**, **LiveData**, **Navigation Graph**, and **SharedPreferences**, providing both grid and list views.
+
+#### **Egypt Explorer**
+A quiz-based game exploring Egypt’s history and culture — blending entertainment with education.  
+Developed fully in **Kotlin** with a custom question system.
+
+---
+
+### Currently Focusing On
+
+- Advanced **Jetpack Compose** animations and UI performance  
+- Expanding skills in **Compose Multiplatform (KMP)**  
+- Applying **Clean Architecture** and scalable app design  
+- App optimization and testing practices  
+
+---
+
+### Connect With Me
+
+- **LinkedIn:** [Khaled Mustafa Eltazy](https://www.linkedin.com/in/khmeltazy/)  
+- **Email:** [khmeltazy@gmail.com](mailto:khmeltazy@gmail.com)  
+- **Phone:** 01120029914  
+
+---
+
+ *“I believe that great apps are born from clean architecture for light and streamlined performance, beautiful design, and real-world problem solving.”*
